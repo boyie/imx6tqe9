@@ -29,6 +29,8 @@ static int addr_aligned(struct bounce_buffer *state)
 
 	/* Aligned */
 	return 1;
+	
+	爱是飞洒发
 }
 
 int bounce_buffer_start(struct bounce_buffer *state, void *data,
